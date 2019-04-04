@@ -9,5 +9,5 @@
     - Best Case: ![](https://latex.codecogs.com/gif.latex?O%5Cleft%28%20n%5E%7B2%7D%5Cright%29)
     - Worst Case: ![](https://latex.codecogs.com/gif.latex?O%5Cleft%28%20n%5E%7B2%7D%5Cright%29)
     - Average Case: ![](https://latex.codecogs.com/gif.latex?O%5Cleft%28%20n%5E%7B2%7D%5Cright%29)
-- 空間複雜度(Space Complexity)：θ(1)
+- 空間複雜度(Space Complexity)：![](https://latex.codecogs.com/gif.latex?%5Ctheta%20%5Cleft%28%201%5Cright%29)
 - 穩定性(Stable/Unstable)：不穩定(Unstable)
