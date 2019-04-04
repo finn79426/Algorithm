@@ -6,8 +6,8 @@
     1. 將資料分成**已排序**、**未排序**兩部份
     2. 依序由**未排序**中找**最小/大值**，加入到已排序部份的末端
 - 時間複雜度(Time Complexity)
-    - Best Case: ![](https://latex.codecogs.com/gif.latex?O\left(&space;n^{2}\right))
-    - Worst Case: ![](https://latex.codecogs.com/gif.latex?O\left(&space;n^{2}\right))
-    - Average Case: ![](https://latex.codecogs.com/gif.latex?O\left(&space;n^{2}\right))
+    - Best Case: ![](https://latex.codecogs.com/gif.latex?O%5Cleft%28%20n%5E%7B2%7D%5Cright%29)
+    - Worst Case: ![](https://latex.codecogs.com/gif.latex?O%5Cleft%28%20n%5E%7B2%7D%5Cright%29)
+    - Average Case: ![](https://latex.codecogs.com/gif.latex?O%5Cleft%28%20n%5E%7B2%7D%5Cright%29)
 - 空間複雜度(Space Complexity)：θ(1)
 - 穩定性(Stable/Unstable)：不穩定(Unstable)
