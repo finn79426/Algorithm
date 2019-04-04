@@ -18,5 +18,6 @@ def selection_sort(list):
 
 if __name__ == '__main__':
     data = random_list(100, 10)
+    print("\nUnsorted data: \n{}\n".format(data))
     sorted_data = selection_sort(data)
-    print("\nResult: \n", sorted_data)
+    print("\nResult: \n{}".format(sorted_data))
